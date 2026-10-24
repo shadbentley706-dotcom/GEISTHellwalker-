@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_material": {"trigger": "minecraft:inventory_changed", "conditions": {"items": [{"items": ["minecraft:leather"]}]}},
+    "has_the_recipe": {"trigger": "minecraft:recipe_unlocked", "conditions": {"recipe": "geist_hellblazer:trench_coat"}}
+  },
+  "requirements": [["has_material", "has_the_recipe"]],
+  "rewards": {"recipes": ["geist_hellblazer:trench_coat"]}
+}

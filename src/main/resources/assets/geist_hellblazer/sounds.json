@@ -1,0 +1,81 @@
+{
+  "case_click": {
+    "category": "master",
+    "subtitle": "subtitles.geist_hellblazer.case_click",
+    "sounds": [
+      "geist_hellblazer:case_click"
+    ]
+  },
+  "case_close": {
+    "category": "master",
+    "subtitle": "subtitles.geist_hellblazer.case_close",
+    "sounds": [
+      "geist_hellblazer:case_close"
+    ]
+  },
+  "case_closed": {
+    "category": "master",
+    "subtitle": "subtitles.geist_hellblazer.case_closed",
+    "sounds": [
+      "geist_hellblazer:case_closed"
+    ]
+  },
+  "case_deny": {
+    "category": "master",
+    "subtitle": "subtitles.geist_hellblazer.case_deny",
+    "sounds": [
+      "geist_hellblazer:case_deny"
+    ]
+  },
+  "case_failed": {
+    "category": "master",
+    "subtitle": "subtitles.geist_hellblazer.case_failed",
+    "sounds": [
+      "geist_hellblazer:case_failed"
+    ]
+  },
+  "case_hover": {
+    "category": "master",
+    "subtitle": "subtitles.geist_hellblazer.case_hover",
+    "sounds": [
+      "geist_hellblazer:case_hover"
+    ]
+  },
+  "case_open": {
+    "category": "master",
+    "subtitle": "subtitles.geist_hellblazer.case_open",
+    "sounds": [
+      "geist_hellblazer:case_open"
+    ]
+  },
+  "case_stamp": {
+    "category": "master",
+    "subtitle": "subtitles.geist_hellblazer.case_stamp",
+    "sounds": [
+      "geist_hellblazer:case_stamp"
+    ]
+  },
+  "case_tab": {
+    "category": "master",
+    "subtitle": "subtitles.geist_hellblazer.case_tab",
+    "sounds": [
+      "geist_hellblazer:case_tab"
+    ]
+  },
+  "case_type": {
+    "category": "master",
+    "subtitle": "subtitles.geist_hellblazer.case_type",
+    "sounds": [
+      "geist_hellblazer:case_type_1",
+      "geist_hellblazer:case_type_2",
+      "geist_hellblazer:case_type_3"
+    ]
+  },
+  "rank_up": {
+    "category": "master",
+    "subtitle": "subtitles.geist_hellblazer.rank_up",
+    "sounds": [
+      "geist_hellblazer:rank_up"
+    ]
+  }
+}

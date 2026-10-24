@@ -1,0 +1,272 @@
+{
+  "exo_compress": {
+    "subtitle": "subtitles.geist.exo_compress",
+    "sounds": [
+      {
+        "name": "geist:exo_compress",
+        "stream": false
+      }
+    ]
+  },
+  "exo_leap": {
+    "subtitle": "subtitles.geist.exo_leap",
+    "sounds": [
+      {
+        "name": "geist:exo_leap",
+        "stream": false
+      }
+    ]
+  },
+  "exo_land": {
+    "subtitle": "subtitles.geist.exo_land",
+    "sounds": [
+      {
+        "name": "geist:exo_land",
+        "stream": false
+      }
+    ]
+  },
+  "exo_stomp": {
+    "subtitle": "subtitles.geist.exo_stomp",
+    "sounds": [
+      {
+        "name": "geist:exo_stomp",
+        "stream": false
+      }
+    ]
+  },
+  "exo_boot": {
+    "subtitle": "subtitles.geist.exo_boot",
+    "sounds": [
+      {
+        "name": "geist:exo_boot",
+        "stream": false
+      }
+    ]
+  },
+  "exo_short": {
+    "subtitle": "subtitles.geist.exo_short",
+    "sounds": [
+      {
+        "name": "geist:exo_short",
+        "stream": false
+      }
+    ]
+  },
+  "exo_reboot": {
+    "subtitle": "subtitles.geist.exo_reboot",
+    "sounds": [
+      {
+        "name": "geist:exo_reboot",
+        "stream": false
+      }
+    ]
+  },
+  "exo_fuel": {
+    "subtitle": "subtitles.geist.exo_fuel",
+    "sounds": [
+      {
+        "name": "geist:exo_fuel",
+        "stream": false
+      }
+    ]
+  },
+  "exo_hiss": {
+    "subtitle": "subtitles.geist.exo_hiss",
+    "sounds": [
+      {
+        "name": "geist:exo_hiss",
+        "stream": false
+      }
+    ]
+  },
+  "gauntlet_windup": {
+    "subtitle": "subtitles.geist.gauntlet_windup",
+    "sounds": [
+      {
+        "name": "geist:gauntlet_windup",
+        "stream": false
+      }
+    ]
+  },
+  "gauntlet_punch": {
+    "subtitle": "subtitles.geist.gauntlet_punch",
+    "sounds": [
+      {
+        "name": "geist:gauntlet_punch",
+        "stream": false
+      }
+    ]
+  },
+  "gauntlet_hit": {
+    "subtitle": "subtitles.geist.gauntlet_hit",
+    "sounds": [
+      {
+        "name": "geist:gauntlet_hit",
+        "stream": false
+      }
+    ]
+  },
+  "gauntlet_whiff": {
+    "subtitle": "subtitles.geist.gauntlet_whiff",
+    "sounds": [
+      {
+        "name": "geist:gauntlet_whiff",
+        "stream": false
+      }
+    ]
+  },
+  "gauntlet_vent": {
+    "subtitle": "subtitles.geist.gauntlet_vent",
+    "sounds": [
+      {
+        "name": "geist:gauntlet_vent",
+        "stream": false
+      }
+    ]
+  },
+  "gauntlet_ready": {
+    "subtitle": "subtitles.geist.gauntlet_ready",
+    "sounds": [
+      {
+        "name": "geist:gauntlet_ready",
+        "stream": false
+      }
+    ]
+  },
+  "gauntlet_boot": {
+    "subtitle": "subtitles.geist.gauntlet_boot",
+    "sounds": [
+      {
+        "name": "geist:gauntlet_boot",
+        "stream": false
+      }
+    ]
+  },
+  "gauntlet_throw": {
+    "subtitle": "subtitles.geist.gauntlet_throw",
+    "sounds": [
+      {
+        "name": "geist:gauntlet_throw",
+        "stream": false
+      }
+    ]
+  },
+  "gauntlet_impact": {
+    "subtitle": "subtitles.geist.gauntlet_impact",
+    "sounds": [
+      {
+        "name": "geist:gauntlet_impact",
+        "stream": false
+      }
+    ]
+  },
+  "mt7c_switch": {
+    "subtitle": "subtitles.geist.mt7c_switch",
+    "sounds": [
+      {
+        "name": "geist:mt7c_switch",
+        "stream": false
+      }
+    ]
+  },
+  "mt7c_charge": {
+    "subtitle": "subtitles.geist.mt7c_charge",
+    "sounds": [
+      {
+        "name": "geist:mt7c_charge",
+        "stream": true
+      }
+    ]
+  },
+  "mt7c_impact": {
+    "subtitle": "subtitles.geist.mt7c_impact",
+    "sounds": [
+      {
+        "name": "geist:mt7c_impact",
+        "stream": false
+      }
+    ]
+  },
+  "mt7c_crack": {
+    "subtitle": "subtitles.geist.mt7c_crack",
+    "sounds": [
+      {
+        "name": "geist:mt7c_crack",
+        "stream": false
+      }
+    ]
+  },
+  "mt7c_vent": {
+    "subtitle": "subtitles.geist.mt7c_vent",
+    "sounds": [
+      {
+        "name": "geist:mt7c_vent",
+        "stream": false
+      }
+    ]
+  },
+  "mt7c_ready": {
+    "subtitle": "subtitles.geist.mt7c_ready",
+    "sounds": [
+      {
+        "name": "geist:mt7c_ready",
+        "stream": false
+      }
+    ]
+  },
+  "zero_draw": {
+    "subtitle": "subtitles.geist.zero_draw",
+    "sounds": [
+      {
+        "name": "geist:zero_draw",
+        "stream": false
+      }
+    ]
+  },
+  "zero_fire": {
+    "subtitle": "subtitles.geist.zero_fire",
+    "sounds": [
+      {
+        "name": "geist:zero_fire",
+        "stream": false
+      }
+    ]
+  },
+  "zero_hit": {
+    "subtitle": "subtitles.geist.zero_hit",
+    "sounds": [
+      {
+        "name": "geist:zero_hit",
+        "stream": false
+      }
+    ]
+  },
+  "zero_shockwave": {
+    "subtitle": "subtitles.geist.zero_shockwave",
+    "sounds": [
+      {
+        "name": "geist:zero_shockwave",
+        "stream": false
+      }
+    ]
+  },
+  "zero_ricochet": {
+    "subtitle": "subtitles.geist.zero_ricochet",
+    "sounds": [
+      {
+        "name": "geist:zero_ricochet",
+        "stream": false
+      }
+    ]
+  },
+  "zero_mode": {
+    "subtitle": "subtitles.geist.zero_mode",
+    "sounds": [
+      {
+        "name": "geist:zero_mode",
+        "stream": false
+      }
+    ]
+  }
+}

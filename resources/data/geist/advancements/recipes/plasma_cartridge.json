@@ -1,0 +1,13 @@
+{
+  "conditions": [
+    {
+      "type": "forge:false"
+    }
+  ],
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "never": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
