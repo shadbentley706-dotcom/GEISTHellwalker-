@@ -1,9 +1,0 @@
-{
-  "parent": "minecraft:recipes/root",
-  "criteria": {
-    "has_material": {"trigger": "minecraft:inventory_changed", "conditions": {"items": [{"items": ["minecraft:black_wool"]}]}},
-    "has_the_recipe": {"trigger": "minecraft:recipe_unlocked", "conditions": {"recipe": "geist_hellblazer:black_trousers"}}
-  },
-  "requirements": [["has_material", "has_the_recipe"]],
-  "rewards": {"recipes": ["geist_hellblazer:black_trousers"]}
-}
